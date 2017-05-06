@@ -77,7 +77,7 @@ int main() {
     //------------------------------
 
 
-    // CLIP SPACE -> NORMALISED DIVICE SPACE (NDC)
+    // CLIP SPACE -> NORMALISED DEVICE SPACE (NDC)
     //------------------------------
     /* INFO ROUND
       - ndc is in the range of -1.0 to 1.0 in the x,y and z axis.
@@ -93,7 +93,7 @@ int main() {
     //------------------------------
 
 
-    // NORMALISED DIVICE SPACE -> SCREEN SPACE
+    // NORMALISED DEVICE SPACE -> SCREEN SPACE
     //------------------------------
     /* INFO ROUND
       - screen space converts the previouse -1 to 1 mapping into 0 to screen width/ height depending on the axis

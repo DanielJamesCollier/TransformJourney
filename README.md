@@ -1,2 +1,2 @@
 # TransformJourney
-A trip the transformation pipeline
+A trip through the transformation pipeline
